@@ -1,5 +1,21 @@
-.sharp {
-    color: goldenrod
+.undefchar {
+    color: greenyellow;
+    background-color: rgb(255, 0, 170)
 }
 
+.background {
+    background-color: grey;
+}
 
+.sharp {
+    color: lightseagreen;
+    background-color: lightblue
+}
+
+.space {
+    background-color: blue
+}
+
+.dot {
+    color: green
+}
